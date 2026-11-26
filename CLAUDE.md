@@ -1,5 +1,13 @@
 # CLAUDE.md: investing
 
+## Project rules (Ntsakisi Baloyi)
+- Nothing goes to other people (email, messages, posts, pull requests to other repos) without his explicit OK.
+- No secrets, keys, personal data or real client data in git. Use environment variables.
+- Plan, test, commit: write the plan first, run the tests, commit and push, read the CI result.
+- Plan and status live in `docs/plan/DELIVERY-PLAN.md`.
+- Software only: scripts and data engineering. No live trades, no broker connections, no personal investment advice.
+
+
 <!-- reuse-rule:start v1.22.0 — managed by baloyinm/Re-usable-Component/rules/reuse-rule.md; update it there, not here -->
 ## Re-usable components: check, reuse or modify, then build (Jarvis rule)
 
